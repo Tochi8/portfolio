@@ -5,7 +5,7 @@ import Reveal from "@/components/ui/Reveal";
 const links = [
   { label: "Email", value: "chinatutochukwu018@gmail.com", href: "mailto:chinatutochukwu018@gmail.com" },
   { label: "GitHub", value: "github.com/Tochi8", href: "https://github.com/Tochi8" },
-  { label: "LinkedIn", value: "linkedin.com/in/tochukwu-chinatu", href: "https://www.linkedin.com/in/tochukwu-chinatu-8572a5332?utm_source=share_via&utm_content=profile&utm_medium=member_ios" },
+  { label: "LinkedIn", value: "linkedin.com/in/tochukwu", href: "https://www.linkedin.com/in/tochukwu-chinatu-8572a5332?utm_source=share_via&utm_content=profile&utm_medium=member_ios" },
   { label: "X", value: "x.com/tochi_ch9", href: "https://x.com/tochi_ch9" },
   { label: "Resume", value: "Download PDF", href: "/resume.pdf" },
 ];
