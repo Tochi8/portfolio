@@ -13,7 +13,7 @@ const projects = [
       "A modern Web3 brand website showcasing the organization's mission, founder, and community-driven street interview series, serving as a central hub for discovery, engagement, and contact.",
     image: "/images/project-cryptostreet.jpg",
     stack: ["Next.js", "TypeScript", "Tailwind"],
-    href: "https://cryptostreet.pxxl.click/",
+    href: "https://cryptostreet.cv/",
   },
   {
     title: "Polly",
